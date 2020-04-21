@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cn.hrbeu/cn.hrbeu.iml" filepath="$PROJECT_DIR$/cn.hrbeu/cn.hrbeu.iml" />
       <module fileurl="file://$PROJECT_DIR$/git1.iml" filepath="$PROJECT_DIR$/git1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struct/struct.iml" filepath="$PROJECT_DIR$/struct/struct.iml" />
     </modules>
   </component>
 </project>
